@@ -1,0 +1,73 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th.first{
+    width: 150px;
+    height: 30px;
+}
+
+tr.first{
+    height: 30px;
+}
+
+.left{
+    text-align: left;
+}
+
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.magenta{
+    background-color: magenta;
+    color: white;
+}
+
+.black{
+    background-color: rgba(0, 255, 255, 0.747);
+    
+}
+
+
+
+
+
+
+
+.chrome{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.blå{
+    background-color: blue;
+    
+    
+    
+}
+
+.red{
+    background-color: red;
+    
+   
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: limegreen;
+}
+
+.svart{
+    background-color: black;
+}
